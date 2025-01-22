@@ -1,4 +1,4 @@
-# Python Pattern Drawing Project
+# **Python Pattern Drawing Project**
 Welcome to my project! This Python project is designed to work with nested loops, conditional statements and varying user inputs in order to create unique patterns in the output console.
 
 ---
